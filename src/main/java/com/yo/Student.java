@@ -14,9 +14,17 @@ public class Student {
         this.maths=maths;
     }
     public Student(){
-
+        this("John Doe",45,61);
+        /*name="John Doe";
+         english=45;
+         maths=61;*/
     }
     public void print(){
-        System.out.println(name+"\t"+english+"\t"+maths+"\t");
+        int average=(english+maths)/2;
+        System.out.print(name+"\t"+english+"\t"+maths+"\t"+average);
+        if (average<60){
+            System.out.print("*");
+        }
+        System.out.println();
     }
 }

@@ -2,7 +2,7 @@ com/yo/ScoringNG.java
  com.yo.ScoringNG
 com/yo/Hello.java
  com.yo.Hello
-com/yo/Scoring.java
- com.yo.Scoring
 com/yo/Student.java
  com.yo.Student
+com/yo/Scoring.java
+ com.yo.Scoring
