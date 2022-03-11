@@ -4,5 +4,7 @@ com/yo/Hello.java
  com.yo.Hello
 com/yo/Student.java
  com.yo.Student
+com/yo/GraduateStudent.java
+ com.yo.GraduateStudent
 com/yo/Scoring.java
  com.yo.Scoring

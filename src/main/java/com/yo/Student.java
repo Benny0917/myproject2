@@ -21,10 +21,13 @@ public class Student {
     }
     public void print(){
         int average=(english+maths)/2;
-        System.out.print(name+"\t"+english+"\t"+maths+"\t"+average);
-        if (average<60){
+        System.out.print(name+"\t"+english+"\t"+maths+"\t"+getAverage());
+        if (getAverage()<60){
             System.out.print("*");
         }
         System.out.println();
+    }
+    public int getAverage(){
+        return(english+maths)/2;
     }
 }
