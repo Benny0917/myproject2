@@ -10,9 +10,9 @@ com/yo/Hello.java
  com.yo.Hello
 com/yo/Customer.java
  com.yo.Customer
+com/yo/Shopping.java
+ com.yo.Shopping
 com/yo/GoldenCustomer.java
  com.yo.GoldenCustomer
 com/yo/SilverCustomer.java
  com.yo.SilverCustomer
-com/yo/Shopping.java
- com.yo.Shopping

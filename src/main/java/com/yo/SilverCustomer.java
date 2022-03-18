@@ -6,8 +6,7 @@ public class SilverCustomer extends Customer{
     }
     @Override
     public void print(){
-        int backmoney=(consumption/1000)*100;
         int discount=(consumption/1000)*100;
-        System.out.println(name+"\t"+consumption+"\t"+discount+"("+backmoney+")"+"\t"+ "Level"+"\t"+"**");
+        System.out.println(name+"\t"+consumption+"\t"+discount+"("+backmoney()+")"+"\t"+ "Level"+"\t"+"**");
     }
 }

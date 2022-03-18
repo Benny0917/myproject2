@@ -6,7 +6,6 @@ public class Shopping {
         SilverCustomer jenny=new SilverCustomer("jenny",4000);
         GoldenCustomer curry=new GoldenCustomer("curry",6000);
 
-
         james.print();
         jenny.print();
         curry.print();

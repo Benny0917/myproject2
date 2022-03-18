@@ -14,6 +14,9 @@ public class Customer {
     public Customer(){
 
     }
+    public  float backmoney(){
+        return(consumption/1000)*100;
+    }
     public void print(){
         int discount=(consumption/1000)*100;
         System.out.println(name+"\t"+consumption+"\t"+discount+"\t"+ "Level"+"\t"+"*");
