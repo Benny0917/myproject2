@@ -6,6 +6,7 @@ public class GraduateStudent extends Student{
         super(name, english, maths);
         this.thesis=thesis;
     }
+    @Override
     public void print() {
         System.out.println(name+"\t"+english+"\t"+maths+"\t"+getAverage()+"\t"+thesis);
     }

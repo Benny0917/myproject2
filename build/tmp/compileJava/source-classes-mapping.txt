@@ -1,10 +1,18 @@
 com/yo/ScoringNG.java
  com.yo.ScoringNG
-com/yo/Hello.java
- com.yo.Hello
-com/yo/Student.java
- com.yo.Student
 com/yo/GraduateStudent.java
  com.yo.GraduateStudent
+com/yo/Student.java
+ com.yo.Student
 com/yo/Scoring.java
  com.yo.Scoring
+com/yo/Hello.java
+ com.yo.Hello
+com/yo/Customer.java
+ com.yo.Customer
+com/yo/GoldenCustomer.java
+ com.yo.GoldenCustomer
+com/yo/SilverCustomer.java
+ com.yo.SilverCustomer
+com/yo/Shopping.java
+ com.yo.Shopping
