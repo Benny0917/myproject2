@@ -6,10 +6,10 @@ com/yo/Student.java
  com.yo.Student
 com/yo/Scoring.java
  com.yo.Scoring
-com/yo/Hello.java
- com.yo.Hello
 com/yo/Customer.java
  com.yo.Customer
+com/yo/Hello.java
+ com.yo.Hello
 com/yo/Shopping.java
  com.yo.Shopping
 com/yo/GoldenCustomer.java

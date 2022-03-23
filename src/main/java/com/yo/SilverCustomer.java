@@ -10,3 +10,5 @@ public class SilverCustomer extends Customer{
         System.out.println(name+"\t"+consumption+"\t"+discount+"("+backmoney()+")"+"\t"+ "Level"+"\t"+"**");
     }
 }
+
+
