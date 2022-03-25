@@ -1,6 +1,8 @@
-package com.yo;
+package com.yo.sell;
 
-public class GoldenCustomer extends SilverCustomer{
+import com.yo.sell.SilverCustomer;
+
+public class GoldenCustomer extends SilverCustomer {
     int backmoney;
     public GoldenCustomer(String name,int consumption){
         super(name,consumption);

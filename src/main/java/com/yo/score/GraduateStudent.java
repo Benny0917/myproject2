@@ -1,6 +1,8 @@
-package com.yo;
+package com.yo.score;
 
-public class GraduateStudent extends Student{
+import com.yo.score.Student;
+
+public class GraduateStudent extends Student {
     int thesis;
     public GraduateStudent(String name,int english,int maths,int thesis){
         super(name, english, maths);

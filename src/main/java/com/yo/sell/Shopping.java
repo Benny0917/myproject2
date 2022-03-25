@@ -1,4 +1,4 @@
-package com.yo;
+package com.yo.sell;
 
 public class Shopping {
     public static void main(String[] args) {

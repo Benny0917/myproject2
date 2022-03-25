@@ -1,6 +1,6 @@
-package com.yo;
+package com.yo.sell;
 
-public class SilverCustomer extends Customer{
+public class SilverCustomer extends Customer {
     public SilverCustomer(String name,int consumption){
         super(name,consumption);
     }
