@@ -2,7 +2,7 @@ package com.yo.score;
 
 import com.yo.score.Student;
 
-public class GraduateStudent extends Student {
+public class GraduateStudent extends Student implements Printable {
     int thesis;
     public GraduateStudent(String name,int english,int maths,int thesis){
         super(name, english, maths);

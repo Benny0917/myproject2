@@ -1,6 +1,6 @@
 package com.yo.score;
 
-public class Student {
+public class Student implements Printable {
     String name;
     int english;
     int maths;
@@ -19,6 +19,7 @@ public class Student {
          english=45;
          maths=61;*/
     }
+    @Override
     public void print(){
         int average=(english+maths)/2;
         System.out.print(name+"\t"+english+"\t"+maths+"\t"+getAverage());

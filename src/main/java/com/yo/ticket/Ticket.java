@@ -1,5 +1,7 @@
 package com.yo.ticket;
 
+import java.lang.invoke.SwitchPoint;
+
 public class Ticket {
 
     public static final int TAIPEI_STATION=100;
@@ -13,6 +15,20 @@ public class Ticket {
         this.start=start;
         this.destination=destination;
         this.amount=amount;
+        int diff=Math.abs(start.id-destination.id);
+        int price;
+        System.out.printf("diff: "+diff);
+        switch(diff){
+            case 100:
+                price = 500;
+                break;
+            case 200:
+                price = 600;
+                break;
+            case  300:
+                price = 1100;
+                break;
+        }
     }
     public float price(){
         int distance=destination.id-start.id;

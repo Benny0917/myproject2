@@ -1,18 +1,36 @@
-com/yo/ScoringNG.java
- com.yo.ScoringNG
-com/yo/GraduateStudent.java
- com.yo.GraduateStudent
-com/yo/Student.java
- com.yo.Student
-com/yo/Scoring.java
- com.yo.Scoring
-com/yo/Customer.java
- com.yo.Customer
 com/yo/Hello.java
  com.yo.Hello
-com/yo/Shopping.java
- com.yo.Shopping
-com/yo/GoldenCustomer.java
- com.yo.GoldenCustomer
-com/yo/SilverCustomer.java
- com.yo.SilverCustomer
+com/yo/ticket/ElderTicket.java
+ com.yo.ticket.ElderTicket
+com/yo/ticket/StudentTicket.java
+ com.yo.ticket.StudentTicket
+com/yo/score/ScoringNG.java
+ com.yo.score.ScoringNG
+com/yo/ticket/Tester.java
+ com.yo.ticket.Tester
+com/yo/ticket/ReturnTicket.java
+ com.yo.ticket.ReturnTicket
+com/yo/ticket/Ticket.java
+ com.yo.ticket.Ticket
+com/yo/ticket/Station.java
+ com.yo.ticket.Station
+com/yo/sales/SilverCustomer.java
+ com.yo.sales.SilverCustomer
+com/yo/sales/Customer.java
+ com.yo.sales.Customer
+com/yo/score/Student.java
+ com.yo.score.Student
+com/yo/sales/GoldenCustomer.java
+ com.yo.sales.GoldenCustomer
+com/yo/sales/MyClass.java
+ com.yo.sales.MyClass
+com/yo/score/Printable.java
+ com.yo.score.Printable
+com/yo/score/GraduateStudent.java
+ com.yo.score.GraduateStudent
+com/yo/score/Scoring.java
+ com.yo.score.Scoring
+com/yo/sales/Shopping.java
+ com.yo.sales.Shopping
+com/yo/sales/MyInterface.java
+ com.yo.sales.MyInterface
