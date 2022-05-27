@@ -15,11 +15,11 @@ public class MyWin {
         frame.setSize(600,400);
         frame.setLocation(300,200);
         frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
-        MyActionListener listener = new MyActionListener();
+//      MyActionListener listener = new MyActionListener();
         //add Component
         //frame.setLayout(new BorderLayout());
         frame.setLayout(new FlowLayout());
-        JButton button = new JButton("Test");
+        JButton button = new JButton("OK");
         frame.add(button);
         frame.setVisible(true);
         button.addActionListener(new ActionListener() {
