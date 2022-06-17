@@ -1,9 +1,13 @@
+com/yo/UI/MyForm.java
+ com.yo.UI.MyForm
 com/yo/sales/SilverCustomer.java
  com.yo.sales.SilverCustomer
 com/yo/ticket/ElderTicket.java
  com.yo.ticket.ElderTicket
 com/yo/ticket/StudentTicket.java
  com.yo.ticket.StudentTicket
+com/yo/score/ScoringFile.java
+ com.yo.score.ScoringFile
 com/yo/score/Student.java
  com.yo.score.Student
 com/yo/score/Scoring.java
@@ -22,6 +26,9 @@ com/yo/ticket/ReturnTicket.java
  com.yo.ticket.ReturnTicket
 com/yo/sales/Customer.java
  com.yo.sales.Customer
+com/yo/UI/GuessFrame.java
+ com.yo.UI.GuessFrame
+ com.yo.UI.GuessFrame$1
 com/yo/sales/GoldenCustomer.java
  com.yo.sales.GoldenCustomer
 com/yo/sales/MyClass.java
@@ -30,21 +37,14 @@ com/yo/Hello.java
  com.yo.Hello
 com/yo/score/Printable.java
  com.yo.score.Printable
-com/yo/score/GraduateStudent.java
- com.yo.score.GraduateStudent
-com/yo/sales/MyInterface.java
- com.yo.sales.MyInterface
-com/yo/parking/Runner.java
- com.yo.parking.Runner
-com/yo/UI/MyActionListener.java
- com.yo.UI.MyActionListener
-com/yo/UI/MyForm.java
- com.yo.UI.MyForm
 com/yo/UI/MyWin.java
  com.yo.UI.MyWin
  com.yo.UI.MyWin$1
-com/yo/UI/GuessFrame.java
- com.yo.UI.GuessFrame
- com.yo.UI.GuessFrame$1
-com/yo/score/ScoringFile.java
- com.yo.score.ScoringFile
+com/yo/score/GraduateStudent.java
+ com.yo.score.GraduateStudent
+com/yo/UI/MyActionListener.java
+ com.yo.UI.MyActionListener
+com/yo/parking/Runner.java
+ com.yo.parking.Runner
+com/yo/sales/MyInterface.java
+ com.yo.sales.MyInterface
