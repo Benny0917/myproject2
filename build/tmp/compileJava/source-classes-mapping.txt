@@ -46,3 +46,5 @@ com/yo/UI/MyWin.java
 com/yo/UI/GuessFrame.java
  com.yo.UI.GuessFrame
  com.yo.UI.GuessFrame$1
+com/yo/score/ScoringFile.java
+ com.yo.score.ScoringFile
