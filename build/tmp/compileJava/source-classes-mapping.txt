@@ -48,3 +48,15 @@ com/yo/parking/Runner.java
  com.yo.parking.Runner
 com/yo/sales/MyInterface.java
  com.yo.sales.MyInterface
+number.java
+ number
+com/yo/multiple99.java
+ com.yo.multiple99
+com/yo/count.java
+ com.yo.count
+com/yo/year.java
+ com.yo.year
+com/yo/triangle.java
+ com.yo.triangle
+com/yo/cat.java
+ com.yo.cat
